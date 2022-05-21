@@ -16,8 +16,10 @@ materials:
 
 1 x 5 * 3.5 cm PCB Board
 
+![alt text](https://github.com/jenizar/rc-4-Channel-diy/blob/main/screenshot/pic1.jpg)
+![alt text](https://github.com/jenizar/rc-4-Channel-diy/blob/main/screenshot/pic2.jpg)
+![alt text](https://github.com/jenizar/rc-4-Channel-diy/blob/main/screenshot/pic3.jpg)
 ![alt text](https://github.com/jenizar/rc-4-Channel-diy/blob/main/screenshot/transmitter.jpg)
-
 ![alt text](https://github.com/jenizar/rc-4-Channel-diy/blob/main/screenshot/receiver.jpg)
 
 
